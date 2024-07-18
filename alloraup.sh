@@ -6,10 +6,10 @@ display_message() {
   echo -e "║    Welcome to Allora W0rker-N0de Auto Setup B0T💀                 ║"
   echo -e "║                                                                   ║"
   echo -e "║     Follow us on (X)Twitter:                                      ║"
-  echo -e "║     https://twitter.com/cryptoconsol                          ║"
+  echo -e "║     https://twitter.com/cryptoconsol                              ║"
   echo -e "║                                                                   ║"
   echo -e "║     Join us on Telegram:                                          ║"
-  echo -e "║       - https://t.me/cryptoconsol                            ║"
+  echo -e "║       - https://t.me/cryptoconsol                                 ║"
   echo -e "╚═════════════════════════════════════════════════════════════════╝\e[0m"
 }
 
